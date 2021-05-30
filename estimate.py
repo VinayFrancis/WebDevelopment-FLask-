@@ -3,7 +3,7 @@ import unittest
 import random
 
 def wallis(i):
-	n=((4i*i)/((4*i*i)-1))
+	n=((4*i*i)/((4*i*i)-1))
 	return (n)
 	
 def monte_carlo(i):
